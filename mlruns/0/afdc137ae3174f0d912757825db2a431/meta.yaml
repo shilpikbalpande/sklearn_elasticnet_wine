@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mLFlow/mlflow/examples/sklearn_elasticnet_wine/mlruns/0/afdc137ae3174f0d912757825db2a431/artifacts
+end_time: 1567189847537
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: afdc137ae3174f0d912757825db2a431
+run_uuid: afdc137ae3174f0d912757825db2a431
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1567189847210
+status: 3
+tags: []
+user_id: I847808
